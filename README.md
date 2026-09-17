@@ -25,6 +25,9 @@
 
 Создана базовая структура проекта.
 
+## Ссылка на опубликованный проект
+
+GitHub Pages: https://mohtajilop.github.io/EFBOshka-html-css-shop/
 
 ## Автор
 
