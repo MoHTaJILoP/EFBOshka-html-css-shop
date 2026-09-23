@@ -24,10 +24,10 @@
 ## Текущий статус
 
 Создана базовая структура проекта.
-Cоздан HTML-каркас стартовой страницы и выполнено базовое CSS-оформление.    
+
 ## Ссылка на опубликованный проект
 
-GitHub Pages: https://mohtajilop.github.io/EFBOshka-html-css-shop/5
+GitHub Pages: https://mohtajilop.github.io/EFBOshka-html-css-shop/
 
 ## Автор
 
